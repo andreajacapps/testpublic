@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guidebook>
+
+    <item>
+        <link>https://www.abcvintagemi.com/</link>
+        <id>1001</id>
+        <title>ABC Vintage</title>
+        <image>http://jacappsdemo.com/wp-content/uploads/2021/04/9.png</image>
+        <subtitle>Hours: MON-FRI 12:00pm - 4:00pm SAT-SUN Closed</subtitle>
+        <description>Clothing store</description>
+        <location>154 W Maple Rd, Birmingham, MI 48009</location>
+        <latitude>42.5468874</latitude>
+        <longitude>-83.2156034</longitude>
+        <phone>248.731.7460</phone>
+    </item>
+	
+    <item>
+        <link>https://www.birminghamdesignstudio.com/</link>
+        <id>1002</id>
+        <title>Birmingham Design Studio</title>
+        <image>http://jacappsdemo.com/wp-content/uploads/2021/04/9.png</image>
+        <subtitle>Hours: MON-SAT 10:00am - 6:00pm SUN 12:00pm - 5:00pm</subtitle>
+        <description>Furniture store</description>
+        <location>808 S Old Woodward Ave, Birmingham, MI 48009</location>
+        <latitude>42.5422681</latitude>
+        <longitude>-83.2098611</longitude>
+        <phone>248.723.8888</phone>
+    </item>
+
+    <item>
+        <link>https://www.carusocaruso.com/</link>
+        <id>1003</id>
+        <title>Caruso Caruso</title>
+        <image>http://jacappsdemo.com/wp-content/uploads/2021/04/9.png</image>
+        <subtitle>Hours: MON-WED 10:00am - 6:00pm TH-FRI 10:00am - 7:00pm SUN 12:00pm - 6:00pm</subtitle>
+        <description>Jeans shop</description>
+        <location>166 W Maple Rd, Birmingham, MI 48009</location>
+        <latitude>42.5468778</latitude>
+        <longitude>-83.2157583</longitude>
+        <phone>248.645.5151</phone>
+    </item>
+
+    <item>
+        <link>https://www.dkgallery.com/</link>
+        <id>1004</id>
+        <title>David Klein Gallery</title>
+        <image>http://jacappsdemo.com/wp-content/uploads/2021/04/9.png</image>
+        <subtitle>Hours: TUES-SAT 12:00pm - 5:30pm</subtitle>
+        <description>Art gallery</description>
+        <location>163 Townsend St, Birmingham, MI 48009</location>
+        <latitude>42.5443756</latitude>
+        <longitude>-83.2155638</longitude>
+        <phone>248.433.3700</phone>
+    </item>
+
+    <item>
+        <link>https://www.eggnewyork.com/</link>
+        <id>1005</id>
+        <title>Egg New York</title>
+        <image>http://jacappsdemo.com/wp-content/uploads/2021/04/9.png</image>
+        <subtitle>Hours: MON-SAT 10:00am - 5:00pm SUN Closed</subtitle>
+        <description>Children's clothing store</description>
+        <location>244 E Maple Rd, Birmingham, MI 48009</location>
+        <latitude>42.5466287</latitude>
+        <longitude>-83.2134082</longitude>
+        <phone>248.645.0400</phone>
+    </item>
+
+    <item>
+        <link>https://stores.fahertybrand.com/mi/birmingham/BIR40/</link>
+        <id>1006</id>
+        <title>Faherty</title>
+        <image>http://jacappsdemo.com/wp-content/uploads/2021/04/9.png</image>
+        <subtitle>Hours: MON-SUN 10:00am - 6:00pm</subtitle>
+        <description>Clothing store</description>
+        <location>128 S Old Woodward Ave, Birmingham, MI 48009</location>
+        <latitude>42.5462926</latitude>
+        <longitude>-83.2142345</longitude>
+        <phone>947.237.4045</phone>
+    </item>
+
+    <item>
+        <link>http://www.greenstonesjewelers.com/</link>
+        <id>1006</id>
+        <title>Greenstone's Fine Jewelry</title>
+        <image>http://jacappsdemo.com/wp-content/uploads/2021/04/9.png</image>
+        <subtitle>Hours: MON-FRI 11:00am - 5:00pm SAT-SUN Closed</subtitle>
+        <description>Jeweler</description>
+        <location>3430 N Old Woodward Ave, Birmingham, MI 48009</location>
+        <latitude>42.5497731</latitude>
+        <longitude>-83.2165435</longitude>
+        <phone>248.642.2650</phone>
+    </item>
+	
+</guidebook>
