@@ -2,48 +2,40 @@
 
 <rotator>
 
-  <panel>
-  <number>1</number>
-  <image>https://npr.brightspotcdn.com/dims4/default/b6e36c2/2147483647/strip/true/crop/325x200+163+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2Fa5%2F967ce6464d648a4cff6db67ad0ac%2Fapr-app-logos-7.png</image>
-  <url>jav4-211://7454</url>
-  <redirect>n</redirect>
-  </panel>
- 
-  <panel>
-  <number>2</number>
-  <image>https://raw.githubusercontent.com/frankmarchant/wcbm/main/reverse_mortgage.jpg</image>
-  <url>https://rmanswers.com</url>
-  <redirect>n</redirect>
-  </panel>
- 
-  <panel>
-  <number>3</number>
-  <image>https://raw.githubusercontent.com/frankmarchant/wcbm/main/tim_kyle_640x400.jpg</image>
-  <url>https://timkyleelectric.com/</url>
-  <redirect>n</redirect>
-  </panel>
- 
-  <panel>
-  <number>4</number>
-  <image>https://raw.githubusercontent.com/frankmarchant/wcbm/main/gbt.png</image>
-  <url>https://gbt-online.com/</url>
-  <redirect>n</redirect>
-  </panel>
- 
-  <panel>
-  <number>5</number>
-  <image>https://raw.githubusercontent.com/frankmarchant/wcbm/main/bei_a.jpg</image>
-  <url>https://adnext.franklymedia.com/cgi-bin/click?c=2661&amp;i=474343/</url>
-  <redirect>n</redirect>
-  </panel>
- 
- 
-  <panel>
-  <number>6</number>
-  <image>https://raw.githubusercontent.com/frankmarchant/wcbm/main/perry_hall_640x400.jpg</image>
-  <url>https://www.phigllc.com/</url>
-  <redirect>n</redirect>
-  </panel>
+<panel>
+<number>1</number>
+<image>https://github.com/laurijack/APR-App-Graphics/blob/main/App%20Rotator1_City%20Market.jpg?raw=true</image>
+<url>https://www.aspenpublicradio.org/station-news/2019-10-14/support-aspen-public-radio-with-your-everyday-shopping</url>
+<redirect>n</redirect>
+</panel>
+
+<panel>
+<number>2</number>
+<image>https://github.com/laurijack/APR-App-Graphics/blob/main/App%20Rotator2_Cars.jpg?raw=true</image>
+<url>https://aspenpublicradio.careasy.org/home</url>
+<redirect>n</redirect>
+</panel>
+
+<panel>
+<number>3</number>
+<image>https://github.com/laurijack/APR-App-Graphics/blob/main/App%20Rotator3_Transmitter.jpg?raw=true</image>
+<url>https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E103121&id=40</url>
+<redirect>n</redirect>
+</panel>
+
+<panel>
+<number>4</number>
+<image>https://github.com/laurijack/APR-App-Graphics/blob/main/App%20Rotator4_Elections.jpg?raw=true</image>
+<url>https://www.aspenpublicradio.org/government/2024-02-22/aspen-public-radios-2024-election-guide</url>
+<redirect>n</redirect>
+</panel>
+
+<panel>
+<number>5</number>
+<image>https://github.com/laurijack/APR-App-Graphics/blob/main/App%20Rotator5_Noticias.jpg?raw=true</image>
+<url>https://www.aspenpublicradio.org/noticias-y-actualizaciones-en-espanol</url>
+<redirect>n</redirect>
+</panel>
   
 </rotator>
 
